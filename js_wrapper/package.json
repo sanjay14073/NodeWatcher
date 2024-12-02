@@ -1,0 +1,15 @@
+{
+  "name": "npm_package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nodewatcher": "./index.js"
+  },
+  "author": "Sanjay M",
+  "license": "ISC",
+  "description": ""
+}
